@@ -1,0 +1,13 @@
+com\quantumcart\orderservice\model\Order.class
+com\quantumcart\orderservice\service\OrderService.class
+com\quantumcart\orderservice\dto\OrderRequest$OrderRequestBuilder.class
+com\quantumcart\orderservice\event\OrderPlacedEvent.class
+com\quantumcart\orderservice\dto\OrderRequest.class
+com\quantumcart\orderservice\OrderServiceApplication.class
+com\quantumcart\orderservice\dto\InventoryResponse$InventoryResponseBuilder.class
+com\quantumcart\orderservice\repository\OrderRepository.class
+com\quantumcart\orderservice\config\WebClientConfig.class
+com\quantumcart\orderservice\dto\InventoryResponse.class
+com\quantumcart\orderservice\model\OrderLineItems.class
+com\quantumcart\orderservice\controller\OrderController.class
+com\quantumcart\orderservice\dto\OrderLineItemsDto.class

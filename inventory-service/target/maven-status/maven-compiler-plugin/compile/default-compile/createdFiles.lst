@@ -1,0 +1,7 @@
+com\quantumcart\inventoryservice\repository\InventoryRepository.class
+com\quantumcart\inventoryservice\service\InventoryService.class
+com\quantumcart\inventoryservice\InventoryServiceApplication.class
+com\quantumcart\inventoryservice\controller\InventoryController.class
+com\quantumcart\inventoryservice\model\Inventory.class
+com\quantumcart\inventoryservice\dto\InventoryResponse$InventoryResponseBuilder.class
+com\quantumcart\inventoryservice\dto\InventoryResponse.class

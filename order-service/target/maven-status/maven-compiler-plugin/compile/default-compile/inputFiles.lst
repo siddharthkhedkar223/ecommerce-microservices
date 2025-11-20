@@ -1,0 +1,11 @@
+C:\Users\hp\OneDrive\Desktop\QuantumCart\order-service\src\main\java\com\quantumcart\orderservice\controller\OrderController.java
+C:\Users\hp\OneDrive\Desktop\QuantumCart\order-service\src\main\java\com\quantumcart\orderservice\dto\OrderRequest.java
+C:\Users\hp\OneDrive\Desktop\QuantumCart\order-service\src\main\java\com\quantumcart\orderservice\event\OrderPlacedEvent.java
+C:\Users\hp\OneDrive\Desktop\QuantumCart\order-service\src\main\java\com\quantumcart\orderservice\OrderServiceApplication.java
+C:\Users\hp\OneDrive\Desktop\QuantumCart\order-service\src\main\java\com\quantumcart\orderservice\repository\OrderRepository.java
+C:\Users\hp\OneDrive\Desktop\QuantumCart\order-service\src\main\java\com\quantumcart\orderservice\dto\OrderLineItemsDto.java
+C:\Users\hp\OneDrive\Desktop\QuantumCart\order-service\src\main\java\com\quantumcart\orderservice\config\WebClientConfig.java
+C:\Users\hp\OneDrive\Desktop\QuantumCart\order-service\src\main\java\com\quantumcart\orderservice\model\Order.java
+C:\Users\hp\OneDrive\Desktop\QuantumCart\order-service\src\main\java\com\quantumcart\orderservice\model\OrderLineItems.java
+C:\Users\hp\OneDrive\Desktop\QuantumCart\order-service\src\main\java\com\quantumcart\orderservice\dto\InventoryResponse.java
+C:\Users\hp\OneDrive\Desktop\QuantumCart\order-service\src\main\java\com\quantumcart\orderservice\service\OrderService.java
