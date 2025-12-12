@@ -1,4 +1,4 @@
-# QuantumCart Microservices
+# E-Commerce Microservices
 
 A robust e-commerce microservices architecture built with Spring Boot 3.2 and Java 17.
 
