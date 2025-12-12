@@ -2,6 +2,8 @@
 
 A robust e-commerce microservices architecture built with Spring Boot 3.2 and Java 17.
 
+![Architecture Diagram](architecture.png)
+
 ## Services Overview
 - **Discovery Server** - Service registry and discovery (Eureka).
 - **Order Service** - Manages order placement and retrieval.
